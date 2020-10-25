@@ -39,3 +39,6 @@ Três métricas foram escolhidas:
 
 No geral pode-se concluir que a desigualdade social é explicitada claramente nos dados e que a mesma é um fator de grande peso no desempenho dos inscritos. Ainda assim, sempre existe outliers que demonstram que mesmo com a desigualdade existe aqueles que conseguem se superar e obter ótimos desempenhos.
 
+
+Obs: As conclusões foram baseadas na amostra para poder representar a população de inscritos do ENEM 2019.
+
