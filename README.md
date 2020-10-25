@@ -19,7 +19,7 @@ No geral observou-se um grande impacto da renda social que por sua vez impacta n
 
 Neste exame do ENEM houveram mais mulheres inscritas do que homens e as notas das mulheres foram ligeiramente um pouco melhores.
 
-Algo interessante observado foi o número de desistência da prova após o primeiro dia de prova. O aumento de faltantes do primeiro dia de prova para o segundo foi de aproximandamente 18%.
+Algo interessante observado foi o número de desistências da prova após o primeiro dia de prova. O aumento de faltantes do primeiro dia de prova para o segundo foi de aproximandamente 18%.
 
 20 % dos inscritos fizeram em uma cidade diferente da cidade de residência.
 
