@@ -33,7 +33,7 @@ Três métricas foram escolhidas:
 
 - R2 score - Erro quadrado
 
-- RSME - Raiz quadrada do erro médio quadrado. Este tipo de métrica tem maior penalidade para error grandes e sofre mais com o impacto dos outliers.
+- RSME - Raiz quadrada do erro médio quadrado. Este tipo de métrica tem maior penalidade para erros grandes e sofre mais com o impacto dos outliers.
 
 - MSLE Raiz quadrada do erro médio logarítmo quadrado. Este tipo de métrica não se importa com a diferença absoluta, se importa somente com a diferença relativa
 
